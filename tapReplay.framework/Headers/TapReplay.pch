@@ -1,0 +1,21 @@
+//
+//  TapReplay.pch
+//  TestFramework
+//
+//  Created by Gaurav Nama on 15/03/17.
+//  Copyright © 2017 tapReplay, Inc. All rights reserved.
+//
+
+#ifndef TapReplay_pch
+#define TapReplay_pch
+#import <UIKit/Uikit.h>
+#import <AVFoundation/AVFoundation.h>
+#import "TR_Config.h"
+#import "AFNetworking.h"
+#import <CoreLocation/CoreLocation.h>
+#import <CoreFoundation/CoreFoundation.h>
+#import "TapReplay.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* TapReplay_pch */

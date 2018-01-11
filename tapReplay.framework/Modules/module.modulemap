@@ -1,0 +1,6 @@
+framework module tapReplay {
+  umbrella header "tapReplay.h"
+
+  export *
+  module * { export * }
+}
