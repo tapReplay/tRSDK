@@ -1,6 +1,5 @@
 //
 //  TapReplayNotifViewController.h
-//  bumpTrack
 //
 //  Created by Savalas Colbert on 7/17/16.
 //  Copyright © 2016 bumpTrack. All rights reserved.

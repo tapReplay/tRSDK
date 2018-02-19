@@ -2,7 +2,7 @@
 //  tapReplaySDK.h
 //  tapReplay
 //
-//  Created by Gaurav Nama on 16/03/17.
+//  Created by tapReplay Office 2 on 16/03/17.
 //  Copyright © 2017 tapReplay, Inc. All rights reserved.
 //
 

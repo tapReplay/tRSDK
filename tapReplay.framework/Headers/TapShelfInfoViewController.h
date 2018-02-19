@@ -1,12 +1,10 @@
 //
 //  TapShelfInfoViewController.h
-//  bumpTrack
 //
-//  Created by Gaurav Nama on 18/02/17.
+//  Created by tapReplay Office 2 on 18/02/17.
 //  Copyright © 2017 bumpTrack. All rights reserved.
 //
 
-//#import <UIKit/UIKit.h>
 #import "TapReplay.pch"
 @class Xperience;
 @protocol TapShelfInfoViewControllerDelegate

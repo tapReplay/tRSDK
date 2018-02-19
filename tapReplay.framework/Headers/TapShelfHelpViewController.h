@@ -1,8 +1,7 @@
 //
 //  TapShelfHelpViewController.h
-//  bumpTrack
 //
-//  Created by Gaurav Nama on 16/11/17.
+//  Created by tapReplay Office 2 on 16/11/17.
 //  Copyright © 2017 bumpTrack. All rights reserved.
 //
 

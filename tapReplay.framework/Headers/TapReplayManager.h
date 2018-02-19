@@ -1,6 +1,5 @@
 //
 //  TapReplayManager.h
-//  bumpTrack
 //
 //  Created by Savalas Colbert on 8/5/16.
 //  Copyright © 2016 bumpTrack. All rights reserved.
